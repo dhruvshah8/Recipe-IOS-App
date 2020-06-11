@@ -1,6 +1,7 @@
-# swiftui-recipes-app
+# SwiftUI Recipe App (IOS) 
 
 ![screenshot](https://github.com/mecid/swiftui-recipes-app/blob/master/Image.PNG?raw=true)
+![](https://raw.githubusercontent.com/dhruvshah8/Recipe-IOS-App/master/Recipes%20Mockup.jpg)
 
 Recipes app is written in SwiftUI using Single State Container
 
